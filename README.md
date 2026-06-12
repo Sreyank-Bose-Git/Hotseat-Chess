@@ -1,30 +1,47 @@
-# Hotseat Chess
+# Hotseat Chess!
 
-A polished, browser-based **hotseat chess** game where two players can play on the same computer.
+A polished, browser-based hotseat chess game where two players can play on the same computer.
+`This project is made in HTML, CSS, and Javascript.`
 
-## Features
-- Clean, modern UI with a responsive layout
-- Full chess board with all standard pieces
-- Turn-based hotseat gameplay (White vs Black)
-- Move highlighting for selected pieces and legal moves
-- Captures, castling, en passant, and promotion
-- Check and checkmate/stalemate detection
-- Move history panel and one-click game reset
+> Made and maintained by ***Sreyank Bose***
 
-## Getting Started
-No build step is required.
+# Chess Rules
 
-1. Open `index.html` in a browser (from your cloned repository folder).
-2. Click a piece to view legal moves.
-3. Click a highlighted square to make a move.
+- Pawn Movement
+- Enpassant
+- Knight Movements
+- Bishop Movements
+- Rook Movements
+- Queen Movements
+- King Movements
+- Checks
+- Captures
+- Attacks
+- Checkmates
+- Stalemates
 
-## Project Files
-- `index.html` – App structure
-- `styles.css` – Visual design and responsive styling
-- `script.js` – Chess rules and game logic
-- `CODE_OF_CONDUCT.md` – Community standards
-- `CONTRIBUTING.md` – Contribution workflow
-- `SECURITY.md` – Security policy and reporting
+# Other Features
 
-## License
-This project is licensed under the terms of the [GNU GPL v3.0](LICENSE).
+> The fity move rule where players make a draw if fifty moves have been played without a pawn move or capture.
+> The 3 fold repetition draw!
+
+# Preferences
+
+1. Set the total time
+2. Set the increment per move
+3. Click Start Game!
+
+# Layout
+
+Left Side -> Game Details, captures, time, etc
+Center -> Board
+Right Side -> Preferences
+
+# How to Play
+
+1. Click 'Code'
+2. Click 'Download'
+3. Run the html file in the Chess Folder
+4. Play the GAME!
+
+# THANK YOU SO MUCH!
