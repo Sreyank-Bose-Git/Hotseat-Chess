@@ -14,7 +14,7 @@ A polished, browser-based **hotseat chess** game where two players can play on t
 ## Getting Started
 No build step is required.
 
-1. Open `/home/runner/work/Hotseat-Chess/Hotseat-Chess/Sreyank-Bose-Git/Hotseat-Chess/index.html` in a browser.
+1. Open `index.html` in a browser (from your cloned repository folder).
 2. Click a piece to view legal moves.
 3. Click a highlighted square to make a move.
 
