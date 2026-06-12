@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hotseat Chess</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="hero">
+      <h1>♟️ Hotseat Chess</h1>
+      <p>Play face-to-face on one computer with a clean and modern board.</p>
+    </section>
+
+    <section class="game-shell">
+      <div class="status-card">
+        <p id="turnLabel">White to move</p>
+        <p id="gameState">Game in progress</p>
+        <button id="resetBtn" type="button">New Game</button>
+      </div>
+
+      <div class="board-wrap">
+        <div id="board" class="board" role="grid" aria-label="Chess board"></div>
+      </div>
+
+      <aside class="history-card">
+        <h2>Moves</h2>
+        <ol id="moveHistory"></ol>
+      </aside>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
